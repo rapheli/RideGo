@@ -1,2 +1,2 @@
 # RideGo
-Motor Uber
+Motor Bike ordering App
